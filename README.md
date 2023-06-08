@@ -32,9 +32,6 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sachiweb" alt="sachiweb" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/sachinandan16" target="blank"><img src="https://img.shields.io/twitter/follow/sachinandan16?logo=twitter&style=for-the-badge" alt="sachinandan16" /></a> </p>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
   
 
 
@@ -45,6 +42,11 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sachiweb&" alt="sachiweb" /></p>
 
+
+
+<p align="left"> <a href="https://twitter.com/sachinandan16" target="blank"><img src="https://img.shields.io/twitter/follow/sachinandan16?logo=twitter&style=for-the-badge" alt="sachinandan16" /></a> </p>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 
 <a href="https://twitter.com/sachinandan16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sachinandan16" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sachi-nandan-pradhan-a39023233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sachi-nandan-pradhan-a39023233/" height="30" width="40" /></a>
