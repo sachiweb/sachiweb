@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center"> I'm Sachi Nandan Pradhan</h1>
-<h3 align="center">A entry level Back-end developer from India</h3>
+<h3 align="center">A Back-end developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachiweb&label=Profile%20views&color=0e75b6&style=flat" alt="sachiweb" /> </p>
 
