@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **sachipradhan951@gmail.com**
 
-- ⚡ Fun fact **i think i am not funny**
+- ⚡ Fun fact **i think i am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
