@@ -15,13 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center"> I'm Sachi Nandan Pradhan</h1>
-<h3 align="center">A Back-end developer from India</h3>
+<h3 align="center">A Back-end developer enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sachiweb&label=Profile%20views&color=0e75b6&style=flat" alt="sachiweb" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sachiweb" alt="sachiweb" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/sachinandan16" target="blank"><img src="https://img.shields.io/twitter/follow/sachinandan16?logo=twitter&style=for-the-badge" alt="sachinandan16" /></a> </p>
 
 - 🌱 I’m currently learning **Backend,cloud,Database**
 
@@ -33,6 +28,11 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact **i think i am funny**
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sachiweb&label=Profile%20views&color=0e75b6&style=flat" alt="sachiweb" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sachiweb" alt="sachiweb" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/sachinandan16" target="blank"><img src="https://img.shields.io/twitter/follow/sachinandan16?logo=twitter&style=for-the-badge" alt="sachinandan16" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sachinandan16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sachinandan16" height="30" width="40" /></a>
