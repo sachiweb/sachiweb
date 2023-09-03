@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h3 align="center">A Back-end developer enthusiast</h3>
 
 
-- 🌱 I’m currently learning **Backend,cloud,Database**
+- 🌱 I’m currently learning **Backend,cloud,Database and DevOps**
 
 - 👯 I’m looking to collaborate on **Full-stack projects**
 
