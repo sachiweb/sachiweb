@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center"> I'm Sachi Nandan Pradhan</h1>
+<!--🖼️OCTOCAT-->
+<p align="center">
+<img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="100px" height="100px"></p>
+
 <h3 align="center">A Back-end developer enthusiast</h3>
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -53,9 +57,6 @@ Here are some ideas to get you started:
 <p align="center">
 <img src="https://i.imgur.com/YCw47Dm.gif">
 
-<!--🖼️OCTOCAT-->
-<p align="center">
-<img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="100px" height="100px"></p>
 
 <!--🌯GITHUBWRAPPED / 🌐https://github.com/neat-run/wrapped -->
 <p align="center">
