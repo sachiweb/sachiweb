@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <p align="center">
 <img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="100px" height="100px"></p>
 
-<h3 align="center">A Back-end developer enthusiast</h3>
+<h3 align="center">A Back-end development enthusiast</h3>
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
