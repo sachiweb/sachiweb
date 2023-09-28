@@ -91,9 +91,9 @@ Here are some ideas to get you started:
 
 
 
-
+<h3 align="center">Connect with me:</h3>
 <p align="left"> <a href="https://twitter.com/sachinandan16" target="blank"><img src="https://img.shields.io/twitter/follow/sachinandan16?logo=twitter&style=for-the-badge" alt="sachinandan16" /></a> </p>
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 
 <a href="https://twitter.com/sachinandan16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sachinandan16" height="30" width="40" /></a>
