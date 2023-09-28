@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact **i think i am funny**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sachiweb&label=Profile%20views&color=0e75b6&style=flat" alt="sachiweb" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sachiweb" alt="sachiweb" /></a> </p>
 
